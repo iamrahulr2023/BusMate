@@ -12,7 +12,7 @@ export default function App() {
       <View style={styles.inputContainer}>
         <TextInput style={styles.input} placeholder="Type a message..." />
         <TouchableOpacity style={styles.sendButton}>
-          <Text style={styles.sendButtonText}>Send</Text>
+          <Text style={styles.sendButtonText}>Sendtoyouda</Text>
         </TouchableOpacity>
       </View>
       <StatusBar style="auto" />
