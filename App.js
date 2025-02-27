@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.chatContainer}>
         <View style={styles.messageBubble}>
-          <Text style={styles.messageText}>Hello! How are you?</Text>
+          <Text style={styles.messageText}>Hello! majid How are you?</Text>
         </View>
       </View>
       <View style={styles.inputContainer}>
